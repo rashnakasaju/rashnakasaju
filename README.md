@@ -1,83 +1,45 @@
-<!-- "Hero" Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" width="100%" alt="Welcome to my Github Profile" />
-  
-  <br /><br />
-
-  <!-- FIXED: Use full URL OR make sure file exists in repo -->
-  <img height="50" 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rashna;I+love+Cybersecurity+%2B+Marketing;Welcome+to+my+GitHub!" />
-
-  <br /><br />
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan">
 </div>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=fEwForZuyGI">
-<strong>Visit my personal website</strong>
-<br /><br />
-
-<img alt="Globe" height="80" 
-     src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif" />
-
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=O9h2tR8wxPk">
-<strong>Listen to cool music</strong>
-<br /><br />
-
-<img height="100" alt="Music" 
-     src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif" />
-
-</a>
-</td>
-
-</tr>
-</table>
-
-<br />
-
 <div align="center">
-<a href="https://github.com/YOUR-USERNAME/YOUR-USERNAME/issues/new">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg">
-</a> 
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome">
 </div>
 
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/shiva676466"><img width="24" src="https://avatars.githubusercontent.com/u/225437460?s=24" /> shiva676466</a> | 4/2/2026 | shiva |
-| <a href="https://github.com/vstyler96"><img width="24" src="https://avatars.githubusercontent.com/u/46312870?s=24" /> vstyler96</a> | 3/28/2026 | Hiii |
-| <a href="https://github.com/shroudedhorizon"><img width="24" src="https://avatars.githubusercontent.com/u/7396952?s=24" /> shroudedhorizon</a> | 3/24/2026 | hello!!!!! |
-| <a href="https://github.com/danitsdev"><img width="24" src="https://avatars.githubusercontent.com/u/109802119?s=24" /> danitsdev</a> | 3/21/2026 | Hello Readme! |
-| <a href="https://github.com/Pranav-MSK"><img width="24" src="https://avatars.githubusercontent.com/u/192725589?s=24" /> Pranav-MSK</a> | 2/7/2026 | Hi 👋 |
-
-<!-- Footer -->
 <div align="center">
+  <h2>Welcome to Rashna Kasaju's GitHub profile!</h2>
+  <p>to my personal GitHub profile!</p>
+</div>
 
-<img height="120" width="100%" 
-     src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<h3 align="center">
+  <a href="https://github.com/rashnakasaju">
+    Visit Rashna's GitHub page
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage">
+  </a>
+</h3>
 
-<br />
+<hr>
 
-<!-- FIXED: your username -->
-![Visitor Count](https://profile-counter.glitch.me/rashnakasaju/count.svg)
+<div align="center">
+  <p>Write something nice in Rashna's guest book:</p>
+  <a href="https://github.com/rashnakasaju/rashnakasaju/issues">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book">
+  </a>
+</div>
 
-<br /><br />
+<hr>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="30" />
+<div align="center">
+  <p>Have a good day!</p>
+  <div>
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley">
+  </div>
+</div>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rashnakasaju/count.svg" alt="hit counter">
+</div>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" />
-
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" />
-
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 </div>
