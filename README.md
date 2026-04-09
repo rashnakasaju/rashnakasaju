@@ -5,8 +5,8 @@
   <br /><br />
 
   <!-- FIXED: Use full URL OR make sure file exists in repo -->
-  <img height="50" alt="My Name is Rashna and I like cybersecurity marketing" 
-       src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <img height="50" 
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rashna;I+love+Cybersecurity+%2B+Marketing;Welcome+to+my+GitHub!" />
 
   <br /><br />
 </div>
